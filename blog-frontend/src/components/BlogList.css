@@ -1,0 +1,27 @@
+/* BlogList.css */
+button {
+    background-color: #1c75d4;
+    color: white;
+    border: none;
+    padding: 8px 12px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-right: 10px;
+  }
+  
+  button:hover {
+    background-color: #1745af;
+  }
+
+  ul {
+    margin-top: 10px;
+  }
+  
+  li h3 {
+    margin: 0;
+  }
+  
+  li p {
+    margin: 4px 0 0 0;
+  }
+  
